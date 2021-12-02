@@ -1,0 +1,16 @@
+white concave 3 .5
+pink circular 2 .25
+orange flat .25 .5
+brown convex 1 .25
+white concave 3 1.5
+brown plain light 6
+brown plain medium 2
+brown variagated dark 4.5
+shiny clear man-made 1
+scratched white origin-unknown 2.5
+green solid 10
+brown grass-like 6
+black wiggly 12
+tan solid 8.5
+green solid 10
+green solid 10
